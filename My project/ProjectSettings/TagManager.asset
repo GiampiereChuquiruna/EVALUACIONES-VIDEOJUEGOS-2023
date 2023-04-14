@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fruta
+  - Fruta1
+  - Fruta2
+  - Enemy
   layers:
   - Default
   - TransparentFX
